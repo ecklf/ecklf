@@ -10,8 +10,8 @@
 #### Rust Learning Resources
 
 - The Rust Programming Language Book: https://doc.rust-lang.org/book/
-- Learn rust: https://learning-rust.github.io/
-- Gentle rust intro: https://stevedonovan.github.io/rust-gentle-intro/
+- Learn Rust: https://learning-rust.github.io/
+- Gentle Rust intro: https://stevedonovan.github.io/rust-gentle-intro/
 - Rust by Example: https://doc.rust-lang.org/stable/rust-by-example/
 - Exercises: https://github.com/rust-lang/rustlings/
 - The summary of the book: https://tourofrust.com/
@@ -21,8 +21,8 @@
 - Minimal Cheatsheet: https://upsuper.github.io/rust-cheatsheet/
 - Syntax explained: https://jrvidal.github.io/explaine.rs/
 - Compiler/ASM Explorer: https://rust.godbolt.org/
-- Embedded rust book 1: https://rust-embedded.github.io/book/
-- Embedded rust book 2: https://embedded-trainings.ferrous-systems.com/
+- Embedded Rust book 1: https://rust-embedded.github.io/book/
+- Embedded Rust book 2: https://embedded-trainings.ferrous-systems.com/
 - Rust Analyzer: https://rust-analyzer.github.io/
 - Discord Servers: https://github.com/mhxion/awesome-discord-communities#rust
 - Popular tagged Libraries: https://github.com/rust-unofficial/awesome-rust

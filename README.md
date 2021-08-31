@@ -4,10 +4,32 @@
 
 ![ecklf's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ecklf&hide=javascript,html&layout=compact&title_color=5A67D8&icon_color=5A67D8&text_color=374151&bg_color=ffffff)
 
-<details><summary>Quick Links</summary>
+<details><summary>Resource Links</summary>
 <p>
 
-#### Rust / WASM
+#### Rust Learning Resources
+
+- The Rust Programming Language Book: https://doc.rust-lang.org/book/
+- Learn rust: https://learning-rust.github.io/
+- Gentle rust intro: https://stevedonovan.github.io/rust-gentle-intro/
+- Rust by Example: https://doc.rust-lang.org/stable/rust-by-example/
+- Exercises: https://github.com/rust-lang/rustlings/
+- The summary of the book: https://tourofrust.com/
+- The async_std book: https://rust-lang.github.io/async-book/
+- Examples of code: http://rosettacode.org/wiki/Category:Rust
+- Rust Cheatsheet: https://www.cheats.rs/
+- Minimal Cheatsheet: https://upsuper.github.io/rust-cheatsheet/
+- Syntax explained: https://jrvidal.github.io/explaine.rs/
+- Compiler/ASM Explorer: https://rust.godbolt.org/
+- Embedded rust book 1: https://rust-embedded.github.io/book/
+- Embedded rust book 2: https://embedded-trainings.ferrous-systems.com/
+- Rust Analyzer: https://rust-analyzer.github.io/
+- Discord Servers: https://github.com/mhxion/awesome-discord-communities#rust
+- Popular tagged Libraries: https://github.com/rust-unofficial/awesome-rust
+- "Are we there yet": https://wiki.mozilla.org/Areweyet
+- Rustnomicon (Unsafe Rust): https://doc.rust-lang.org/nomicon/index.html
+   
+#### Rust WASM Libraries
 
 - https://github.com/neon-bindings/neon
 - https://github.com/rustwasm/wasm-bindgen

@@ -28,6 +28,7 @@
 - Popular tagged Libraries: https://github.com/rust-unofficial/awesome-rust
 - "Are we there yet": https://wiki.mozilla.org/Areweyet
 - Rustnomicon (Unsafe Rust): https://doc.rust-lang.org/nomicon/index.html
+- The Secret Life of Cows: https://deterministic.space/secret-life-of-cows.html
    
 #### Rust WASM Libraries
 

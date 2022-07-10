@@ -12,6 +12,7 @@
 - The Rust Programming Language Book: https://doc.rust-lang.org/book/
 - Learn Rust: https://learning-rust.github.io/
 - Gentle Rust intro: https://stevedonovan.github.io/rust-gentle-intro/
+- Clear explanation of Rust’s module system: https://www.sheshbabu.com/posts/rust-module-system/
 - Rust by Example: https://doc.rust-lang.org/stable/rust-by-example/
 - Exercises: https://github.com/rust-lang/rustlings/
 - The summary of the book: https://tourofrust.com/
